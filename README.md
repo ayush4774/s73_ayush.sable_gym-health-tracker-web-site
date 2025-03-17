@@ -98,4 +98,4 @@ Here's a refined and structured version of your feature list:
 - **AI-Generated Diet Plans**  
 - **AI-Powered Workout Recommendations**  
 - **Subscription Plans for Premium Features**  
-- **Dark Mode**  
+- **Dark Mode**  ...
